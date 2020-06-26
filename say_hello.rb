@@ -2,4 +2,4 @@
 def say_hello(name)
 end
 
-print say_hello
+print say_hello(name)
